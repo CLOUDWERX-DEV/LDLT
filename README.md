@@ -1,6 +1,6 @@
 # 🚀 LDLT: Linux Dev Launcher Tool
 
-<p align="center"> <img src="http://github.com/CLOUDWERX-DEV/ldlt/assets/ldlt-logo.svg" alt="LDLT Logo" width="300"/> <br> <em>Streamline your development environment in Linux</em> </p> <p align="center"> <a href="#installation"><img src="https://img.shields.io/badge/platform-Linux-blue.svg" alt="Platform"></a> <a href="#license"><img src="https://img.shields.io/github/license/CLOUDWERX-DEV/ldlt" alt="License"></a> <a href="#installation"><img src="https://img.shields.io/badge/bash-5.0+-brightgreen.svg" alt="Bash Version"></a> <a href="#"><img src="https://img.shields.io/badge/maintenance-active-green.svg" alt="Maintained"></a> </p>
+<p align="center"> <img src="assets/ldlt-logo.svg" alt="LDLT Logo" width="300"/> <br> <em>Streamline your development environment in Linux</em> </p> <p align="center"> <a href="#installation"><img src="https://img.shields.io/badge/platform-Linux-blue.svg" alt="Platform"></a> <a href="#license"><img src="https://img.shields.io/github/license/CLOUDWERX-DEV/ldlt" alt="License"></a> <a href="#installation"><img src="https://img.shields.io/badge/bash-5.0+-brightgreen.svg" alt="Bash Version"></a> <a href="#"><img src="https://img.shields.io/badge/maintenance-active-green.svg" alt="Maintained"></a> </p>
   
   
   Streamline your development environment in Linux
